@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.verify/
+.sd-state/
+.workbuddy/
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+.env*.local
+.vercel
